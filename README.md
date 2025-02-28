@@ -1,19 +1,17 @@
-# Hi there! 👋 I'm Abdulrhman Khalifa
+Hi there! 👋 I'm Abdulrhman Khalifa
 
-Welcome to my GitHub profile! I'm a **Data Engineer** with a passion for working with **Big Data, SQL, Power BI, and Cloud Technologies**. Currently, I'm expanding my expertise in **AWS, Kubernetes, and Data Science**.
+Welcome to my GitHub profile! I'm a Data Engineer with a passion for working with Big Data, SQL, Power BI, and Cloud Technologies.
 
 ## 🚀 About Me
 - 🏗 **Data Engineering Enthusiast** | Building robust ETL pipelines and optimizing data workflows.
 - 📊 **Power BI Developer** | Transforming raw data into insightful visualizations.
-- ☁ **Cloud Learner** | Exploring **AWS** and modern data infrastructure.
+- ☁ **Cloud Learner** | Exploring AWS and modern data infrastructure.
 - 🖥 **Coding & Problem Solving** | Sharpening my Python & SQL skills for efficient data processing.
+- 📖 **Data Engineering Trainee at ITI**
 
 ## 📚 Learning & Certifications
-- 🎓 **Databricks Fundamentals Accreditation**
 - 🎓 **AWS Cloud Foundation Certification**
 - 🎓 **AWS Data Engineering Certification**
-- 🔥 Currently studying **Data Engineering on AWS** and **Kubernetes**.
-- 💡 Preparing for coding competitions (CodeCamp, LeetCode, etc.).
 
 ## 📌 Featured Projects
 ### 🔹 **Gravity Books Database**
@@ -24,10 +22,9 @@ Welcome to my GitHub profile! I'm a **Data Engineer** with a passion for working
 
 ## 🛠 Tech Stack & Tools
 - **Languages:** Python, SQL
-- **Databases:** PostgreSQL, MySQL, SQL Server
-- **Data Tools:** Power BI, Databricks
-- **Cloud & DevOps:** AWS, Kubernetes, Docker
-- **Other:** Linux, Bash, Git, Prezi
+- **Databases:** MySQL
+- **Data Tools:** Power BI
+- **OS:** Linux (CentOs)
 
 ## 📫 Let's Connect!
 - 💼 **LinkedIn:** [abdulrahman-khalifa](https://www.linkedin.com/in/abdulrahman-khalifa/)
