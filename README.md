@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a Data Engineer with a passion for working wit
 
 ## 📫 Let's Connect!
 - 💼 **LinkedIn:** [abdulrahman-khalifa](https://www.linkedin.com/in/abdulrahman-khalifa/)
-- 📧 **Email:** abdulrahman.m.khalifa@gmail.com
+
 
 Feel free to check out my repositories and collaborate on exciting data projects! 🚀
 
